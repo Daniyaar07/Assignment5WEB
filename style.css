@@ -7,3 +7,16 @@ nav a{
     margin-right: 20px;
     text-decoration: none;
 }
+#taskInput{
+    padding: 10px;
+    width: 250px;
+}
+#tasklist li{
+    margin: 10px 0;
+}
+#taskList button {
+    margin-left:15px;
+}
+#taskList input{
+    margin-right: 10px;
+}
